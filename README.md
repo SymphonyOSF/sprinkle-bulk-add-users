@@ -1,5 +1,7 @@
 # Sprinkle: Bulk Add Users to Chatrooms for Symphony
 
+[![FINOS - Archived](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-archived.svg)](https://finosfoundation.atlassian.net/wiki/display/FINOS/Archived)
+
 A very simple javascript script that will help you bulk add users in your Symphony pod into chatrooms.
 
 ## Requirements
